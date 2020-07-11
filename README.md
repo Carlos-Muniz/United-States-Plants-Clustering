@@ -1,5 +1,5 @@
 # United-States-Plants-Clustering
-Clustering and Visualizing the Plants from the United States via Spark.
+Clustering and Visualizing the Plants from the United States via Spark and NetworkX.
 
 ## Dataset
 The United States Plants dataset can be found on [UCI ML](https://archive.ics.uci.edu/ml/datasets/Plants).
